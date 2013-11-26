@@ -1,6 +1,6 @@
 ---
 layout: default
-title: worksap-ate.github.com
+title: worksap-ate.github.io
 ---
 
 作成中...
